@@ -43,7 +43,7 @@ export default class index extends Component {
 
         }
       }
-    }, 100);
+    }, 1000);
     this.setState({
       timer: a
     })
